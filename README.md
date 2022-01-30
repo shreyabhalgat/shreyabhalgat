@@ -13,6 +13,10 @@ I'm Shreya Bhalgat,from India.I am technology enthusiastic who loves to explore 
 - 🤔 I’m looking for help with Web Development and Data Science
 
 
+[![Shreya's Github Stat](https://github-readme-stats.vercel.app/api?username=shreyabhalgat)](https://github.com/shreyabhalgat)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyabhalgat&layout=compact)](https://github.com/shreyabhalgat)
+
+
 
 
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
