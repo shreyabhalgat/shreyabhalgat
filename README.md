@@ -12,7 +12,7 @@ I'm Shreya Bhalgat,from India.I am technology enthusiastic who loves to explore 
 
 - 🤔 I’m looking for help with Web Development and Data Science
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<shreyabhalgat>&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?shreyabhalgat=<shreyabhalgat>&theme=<THEME_NAME>" />
 
 
 
