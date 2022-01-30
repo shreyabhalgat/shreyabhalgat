@@ -17,7 +17,7 @@ I'm Shreya Bhalgat,from India.I am technology enthusiastic who loves to explore 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyabhalgat&layout=compact)](https://github.com/shreyabhalgat)
 
 
-<a href=”https://www.linkedin.com/in/shreya-bhalgat-275828214/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
 
 
 <!--You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
