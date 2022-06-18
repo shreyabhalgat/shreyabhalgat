@@ -4,13 +4,13 @@
 
 I'm Shreya Bhalgat,from India.I am technology enthusiastic who loves to explore new things.
 
-- 🔭 I’m currently working on Problem Solving skills and Frontend Web development.
+- 🔭 I’m currently working on Problem Solving skills and Data Analytics.
 
-- 🌱 I’m currently learning Data Structure,Javscript,Computer networks,Operating system.
+- 🌱 I’m currently learning Data Structure and Data science
 
-- 👯 I’m looking to collaborate on Frontend Projects
-
-- 🤔 I’m looking for help with Web Development and Data Science
+- 👯 I’m looking to collaborate on Data Science Projects 
+- 
+- 🤔 I’m looking for help with Machine learning and Data Science
 
 
 [![Shreya's Github Stat](https://github-readme-stats.vercel.app/api?username=shreyabhalgat)](https://github.com/shreyabhalgat)
