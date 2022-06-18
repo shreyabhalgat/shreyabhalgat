@@ -9,7 +9,7 @@ I'm Shreya Bhalgat,from India.I am technology enthusiastic who loves to explore 
 - 🌱 I’m currently learning Data Structure and Data science
 
 - 👯 I’m looking to collaborate on Data Science Projects 
-- 
+
 - 🤔 I’m looking for help with Machine learning and Data Science
 
 
