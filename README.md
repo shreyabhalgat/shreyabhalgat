@@ -34,7 +34,7 @@ I am third year UG student. Currently pursuing B.tech in Artificial Intelligence
 <p align="left"> <a href="https://www.github.com/shreyabhalgat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/shreya-bhalgat-275828214/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
-![An image of @shreyabhalgat's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shreyabhalgat)](https://holopin.io/@shreyabhalgat
+[![An image of @shreyabhalgat's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shreyabhalgat)](https://holopin.io/@shreyabhalgat) 
 
 <b>My GitHub Stats</b>
 
