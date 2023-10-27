@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Science Enthusiast
 -----------------------
 
-I am third year UG student. Currently pursuing B.tech in Artificial Intelligence and Data Science. I found myself a keen problem solver. I have good hold over data structures and algorithms .As a data science student, I have developed a strong foundation in statistics, programming, and data analysis. I am proficient in Python, R, and SQL and have experience using various data analysis and visualization tools such as Tableau and Power BI. Through my coursework and personal projects, I have gained experience in data cleaning, data wrangling, data visualization, and machine learning. With my passion for data analysis and problem-solving skills, I am excited to apply my knowledge and contribute to a data-driven organization.
+I am Final Year UG student. Currently pursuing B.tech in Artificial Intelligence and Data Science. I found myself a keen problem solver. I have a good hold over data structures and algorithms.As a data science student, I have developed a strong foundation in statistics, programming, and data analysis. I am proficient in Python, R, and SQL and have experience using various data analysis and visualization tools such as Tableau and Power BI. Through my coursework and personal projects, I have gained experience in data cleaning, data wrangling, data visualization, and machine learning. With my passion for data analysis and problem-solving skills, I am excited to apply my knowledge and contribute to a data-driven organization.
 
 * 🌍  I'm based in Pune
 * ✉️  You can contact me at [shreya.22010695@viit.ac.in](mailto:shreya.22010695@viit.ac.in)
